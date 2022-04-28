@@ -13,16 +13,15 @@
     </theader>
     <tbody>
         <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLE-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
-<span>(formato estudiante)</span>
+<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
+<span>(formato docente)</span>
 </div>
-
 
 <table>
 <theader>
@@ -35,13 +34,16 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA DE PRESENTACION</td><td></td><td>HORA DE PRESENTACION</td><td></td>
-</<tr>
-<tr><td>INTEGRANTE(s):
+<td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
+</tr>
+<tr><td colspan="6">RECURSOS A UTILIZAR:
+<ul>
+<li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
+<li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
+</ul>
 </td>
-<td>NOTA:</td><td></td>
 </<tr>
-<tr><td>DOCENTE:
+<tr><td colspan="6">DOCENTES:
 <ul>
 <li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
 </ul>
