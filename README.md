@@ -36,16 +36,16 @@
 </tr>
 <tr>
 <td>FECHA DE PRESENTACION</td><td></td><td>HORA DE PRESENTACION</td><td></td>
-</tr>
+</<tr>
 <tr><td>INTEGRANTE(s):
 </td>
 <td>NOTA:</td><td></td>
-</tr>
+</<tr>
 <tr><td>DOCENTE:
 <ul>
 <li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
 </ul>
 </td>
-</tr>
+</<tr>
 </tdbody>
 </table>
