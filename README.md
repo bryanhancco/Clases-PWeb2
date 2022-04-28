@@ -34,12 +34,15 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
+<td>FECHA DE PRESENTACION:</td><td></td><td>HORA DE PRESENTACION</td><td></td><td></td><td></td>
 </tr>
-<tr><td colspan="6">RECURSOS A UTILIZAR:
+<tr><td colspan="6">INTEGRANTE(s):
 <ul>
-<li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
-<li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
+<li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe<li>
+<li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
+<li>Eberth Azurin Zuñiga - eazurin@unsa.edu.pe</li>
+<li>Franco Cárdenas Martines - fcardenasm@unsa.edu.pe</li>
+<li>Italo Velita Aguilar - ivelita@unsa.edu.pe</li>
 </ul>
 </td>
 </<tr>
