@@ -13,7 +13,7 @@
     </theader>
     <tbody>
         <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLE-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
 </div>
@@ -31,7 +31,7 @@
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
 <tr>
-<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td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
 <td>FECHA DE PRESENTACIÓN:</td><td></td><td>HORA DE PRESENTACIÓN</td><td colspan="3"></td>
