@@ -23,7 +23,7 @@
 <span>(formato estudiante)</span>
 
 
-<table style="width:100%">
+<table style="width:80px">
 <theader>
 <tr><th colspan="6" style='background-color: #cc340c'>INFORMACIÓN BÁSICA</th></tr>
 </theader>
