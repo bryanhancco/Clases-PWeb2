@@ -34,7 +34,7 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA DE PRESENTACION:</td><td></td><td>HORA DE PRESENTACION</td><td colspan="3"></td>
+<td>FECHA DE PRESENTACIÓN:</td><td></td><td>HORA DE PRESENTACIÓN</td><td colspan="3"></td>
 </tr>
 <tr><td colspan="6">INTEGRANTE(s):
 <ul>
@@ -61,28 +61,7 @@
 </theader>
 <tbody>
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
-<tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
-</tr>
-<tr>
-<td>FECHA DE PRESENTACION:</td><td></td><td>HORA DE PRESENTACION</td><td></td>>
-</tr>
-<tr><td colspan="6">INTEGRANTE(s):
-<ul>
-<li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
-<li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
-<li>Eberth Azurin Zuñiga - eazurin@unsa.edu.pe</li>
-<li>Franco Cárdenas Martines - fcardenasm@unsa.edu.pe</li>
-<li>Italo Velita Aguilar - ivelita@unsa.edu.pe</li>
-</ul>
-</td>
-</<tr>
-<tr><td colspan="6">DOCENTES:
-<ul>
-<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
-</ul>
-</td>
-</<tr>
+<tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO<td></tr>
+<tr><td colspan="6">III. CONCLUSIONES</td></tr>
 </tdbody>
 </table>
