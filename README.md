@@ -31,7 +31,7 @@
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<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td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
 <td>FECHA DE PRESENTACIÓN:</td><td></td><td>HORA DE PRESENTACIÓN</td><td colspan="3"></td>
@@ -52,7 +52,7 @@
 </ul>
 </td>
 </<tr>
-</tdbody>
+</tbody>
 </table>
 
 <table>
@@ -61,7 +61,7 @@
 </theader>
 <tbody>
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</td></tr>
-<tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO<td></tr>
+<tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
 <tr><td colspan="6">III. CONCLUSIONES</td></tr>
-</tdbody>
+</tbody>
 </table>
