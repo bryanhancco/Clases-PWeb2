@@ -21,7 +21,7 @@
 <div align="center">
 <span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
 <span>(formato estudiante)</span>
-</div>
+
 
 <table>
 <theader>
@@ -85,3 +85,4 @@
 <tr><td></td></tr>
 </tbody>
 </table>
+</div>
