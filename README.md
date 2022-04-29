@@ -25,7 +25,7 @@
 
 <table>
 <theader>
-<tr><th colspan="6"><span style="font-weight:bold;">INFORMACIÓN BÁSICA</span></th></tr>
+<tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
@@ -61,24 +61,16 @@
 <tr><th>Solución y resultados</th></tr>
 </theader>
 <tbody>
-<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
-    -                                                             -
-    </td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO
-     -                                                             -
-    </td></tr>
-<tr><td>III. CONCLUSIONES
-    -                                                             -
-    </td></tr>
+<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
+<tr><td>III. CONCLUSIONES</td></tr>
 </tbody>
 </table>
 
 
 <table>
 <theader>
-<tr><th>RETROALIMENTACIÓN GENERAL
-        -                                                             -
-    </th></tr>
+<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
 <tr><td></td></tr>
@@ -87,9 +79,7 @@
 
 <table>
 <theader>
-<tr><th>REFERENCIAS Y BIBLIOGRAFÍA
-        -                                                             -
-    </th></tr>
+<tr><th>REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
 </theader>
 <tbody>
 <tr><td></td></tr>
