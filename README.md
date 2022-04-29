@@ -58,30 +58,30 @@
 
 <table>
 <theader>
-<tr><th colspan="6">Solución y resultados</th></tr>
+<tr><th>Solución y resultados</th></tr>
 </theader>
 <tbody>
-<tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</td></tr>
-<tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
-<tr><td colspan="6">III. CONCLUSIONES</td></tr>
+<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</td></tr>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
+<tr><td>III. CONCLUSIONES</td></tr>
 </tbody>
 </table>
 
 
 <table>
 <theader>
-<tr><th colspan="6">RETROALIMENTACIÓN GENERAL</th></tr>
+<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
-<tr><td colspan="6"></td></tr>
+<tr><td></td></tr>
 </tbody>
 </table>
 
 <table>
 <theader>
-<tr><th colspan="6">REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
+<tr><th>REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
 </theader>
 <tbody>
-<tr><td colspan="6"></td></tr>
+<tr><td></td></tr>
 </tbody>
 </table>
