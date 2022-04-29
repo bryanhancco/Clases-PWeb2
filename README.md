@@ -62,17 +62,23 @@
 </theader>
 <tbody>
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    -                                                             -
     </td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
-<tr><td>III. CONCLUSIONES</td></tr>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO
+     -                                                             -
+    </td></tr>
+<tr><td>III. CONCLUSIONES
+    -                                                             -
+    </td></tr>
 </tbody>
 </table>
 
 
 <table>
 <theader>
-<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
+<tr><th>RETROALIMENTACIÓN GENERAL
+        -                                                             -
+    </th></tr>
 </theader>
 <tbody>
 <tr><td></td></tr>
@@ -81,7 +87,9 @@
 
 <table>
 <theader>
-<tr><th>REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
+<tr><th>REFERENCIAS Y BIBLIOGRAFÍA
+        -                                                             -
+    </th></tr>
 </theader>
 <tbody>
 <tr><td></td></tr>
