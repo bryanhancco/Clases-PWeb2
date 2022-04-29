@@ -19,13 +19,13 @@
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
+<span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
 <span>(formato estudiante)</span>
 
 
 <table>
 <theader>
-<tr><th colspan="6" style="background-color:red">INFORMACIÓN BÁSICA</th></tr>
+<tr><th colspan="6" style="color:red">INFORMACIÓN BÁSICA</th></tr>
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
