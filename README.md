@@ -25,7 +25,7 @@
 
 <table>
 <theader>
-<tr><th colspan="6" style="color:red">INFORMACIÓN BÁSICA</th></tr>
+<tr><th colspan="6"><span style="color:red">INFORMACIÓN BÁSICA</span></th></tr>
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
