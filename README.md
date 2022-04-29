@@ -23,7 +23,7 @@
 <span>(formato estudiante)</span>
 
 
-<table style="width: 100%">
+<table style="width:100%">
 <theader>
 <tr><th colspan="6" style='background-color: #cc340c'>INFORMACIÓN BÁSICA</th></tr>
 </theader>
@@ -61,7 +61,7 @@
 <tr><th>Solución y resultados</th></tr>
 </theader>
 <tbody>
-<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</td></tr>
+<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
 <tr><td>III. CONCLUSIONES</td></tr>
 </tbody>
