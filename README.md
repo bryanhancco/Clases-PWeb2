@@ -36,7 +36,7 @@
 <tr>
 <td>FECHA DE PRESENTACIÓN:</td><td></td><td>HORA DE PRESENTACIÓN</td><td colspan="3"></td>
 </tr>
-<tr><td colspan="6">INTEGRANTE(s):
+<tr><td colspan="4">INTEGRANTE(s):
 <ul>
 <li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
 <li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
@@ -45,8 +45,9 @@
 <li>Italo Velita Aguilar - ivelita@unsa.edu.pe</li>
 </ul>
 </td>
+<td>NOTA:</td><td></td>
 </<tr>
-<tr><td colspan="6">DOCENTES:
+<tr><td colspan="6">DOCENTE(s):
 <ul>
 <li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
 </ul>
@@ -63,5 +64,24 @@
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</td></tr>
 <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
 <tr><td colspan="6">III. CONCLUSIONES</td></tr>
+</tbody>
+</table>
+
+
+<table>
+<theader>
+<tr><th colspan="6">RETROALIMENTACIÓN GENERAL</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+<table>
+<theader>
+<tr><th colspan="6">REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6"></td></tr>
 </tbody>
 </table>
