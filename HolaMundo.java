@@ -8,4 +8,7 @@ public class HolaMundo {
 	public int resta(int a, int b){
 		return a-b;
 	}
+	public int mul(int a, int b){
+		return a*b;
+	}
 }
