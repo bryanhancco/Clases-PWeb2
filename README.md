@@ -75,8 +75,8 @@
 </theader>
 <tbody>
 <tr><td>
-    <pre>                                                                                             </pre>
-    <pre>                                                                                             </pre>
+    <pre>                                                                                          </pre>
+    <pre>                                                                                          </pre>
     </td></tr>
 </tbody>
 </table>
