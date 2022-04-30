@@ -70,13 +70,17 @@
 
 <table>
 <theader>
-<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
+<tr><th>RETROALIMENTACIÓN GENERAL
+    </th></tr>
 </theader>
 <tbody>
-<tr><td></td></tr>
+<tr><td>
+    <pre>                                                                                                           </pre>
+    <pre>                                                                                                           </pre>
+    </td></tr>
 </tbody>
 </table>
-
+    
 <table>
 <theader>
 <tr><th>REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
