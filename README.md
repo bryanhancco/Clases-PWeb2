@@ -13,7 +13,7 @@
     </theader>
     <tbody>
         <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLE-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLB-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
 </div>
@@ -40,9 +40,9 @@
 <ul>
 <li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
 <li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
-<li>Eberth Azurin Zuñiga - eazurin@unsa.edu.pe</li>
+<li>Carlo Rodrigo Diaz Portillo - cdiazpor@unsa.edu.pe</li>
 <li>Franco Cárdenas Martines - fcardenasm@unsa.edu.pe</li>
-<li>Italo Velita Aguilar - ivelita@unsa.edu.pe</li>
+<li>Gabriel Anthony Mamani Cañari - gmamanican@unsa.edu.pe</li>
 </ul>
 </td>
 <td>NOTA:</td><td></td>
