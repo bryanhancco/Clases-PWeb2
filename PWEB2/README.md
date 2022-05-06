@@ -59,9 +59,15 @@
 <tr><th>Solución y resultados</th></tr>
 </theader>
 <tbody>
-<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
-<tr><td>III. CONCLUSIONES</td></tr>
+<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
+    <pre>                                                                                          </pre>
+    </td></tr>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO
+    <pre>                                                                                          </pre>
+    </td></tr>
+<tr><td>III. CONCLUSIONES
+    <pre>                                                                                          </pre>
+    </td></tr>
 </tbody>
 </table>
 
@@ -78,13 +84,9 @@
     </td></tr>
 </tbody>
 </table>
-    
-<table>
-<theader>
-<tr><th>REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
-</theader>
-<tbody>
-<tr><td></td></tr>
-</tbody>
-</table>
-</div>
+</div>    
+<p><b>REFERENCIAS Y BIBLIOGRAFÍA</b></p>
+<ul>
+<li>https://www.w3schools.com/js</li>
+</ul>
+
