@@ -40,7 +40,7 @@
 <li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
 <li>Eberth Azurin Zuñiga - eazurin@unsa.edu.pe</li>
 <li>Franco Cárdenas Martines - fcardenasm@unsa.edu.pe</li>
-<li>Italo Velita Aguialr - ivelita@unsa.edu.pe</li>
+<li>Italo Velita Aguilar - ivelita@unsa.edu.pe</li>
 </ul>
 </td>
 <td>NOTA:</td><td colspan="2"></td>
