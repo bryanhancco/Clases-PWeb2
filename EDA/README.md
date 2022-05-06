@@ -36,7 +36,7 @@
 <tr>
 <td>FECHA DE PRESENTACIÓN:</td><td></td><td>HORA DE PRESENTACIÓN</td><td colspan="3"></td>
 </tr>
-<tr><td colspan="4">INTEGRANTE(s):
+<tr><td colspan="3">INTEGRANTE(s):
 <ul>
 <li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
 <li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
@@ -45,11 +45,11 @@
 <li>Gabriel Anthony Mamani Cañari - gmamanican@unsa.edu.pe</li>
 </ul>
 </td>
-<td>NOTA:</td><td></td>
+<td>NOTA:</td><td colspan="2"></td>
 </<tr>
 <tr><td colspan="6">DOCENTE(s):
 <ul>
-<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
+<li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
 </ul>
 </td>
 </<tr>
@@ -61,9 +61,15 @@
 <tr><th>Solución y resultados</th></tr>
 </theader>
 <tbody>
-<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
-<tr><td>III. CONCLUSIONES</td></tr>
+<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
+    <pre>                                                                                          </pre>
+    </td></tr>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO
+    <pre>                                                                                          </pre>
+    </td></tr>
+<tr><td>III. CONCLUSIONES
+    <pre>                                                                                          </pre>
+    </td></tr>
 </tbody>
 </table>
 
@@ -81,12 +87,10 @@
 </tbody>
 </table>
     
-<table>
-<theader>
-<tr><th>REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
-</theader>
-<tbody>
-<tr><td></td></tr>
-</tbody>
-</table>
-</div>
+</div>    
+<p><b>REFERENCIAS Y BIBLIOGRAFÍA</b></p>
+<ul>
+    <li>https://git-scm.com/book/es/v2</li>
+    <li>https://guides.github.com/</li>
+    <li>https://www.w3schools.com/java/default.asp</li>
+</ul>
