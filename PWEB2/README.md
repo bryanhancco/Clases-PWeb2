@@ -13,13 +13,13 @@
     </theader>
     <tbody>
         <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLE-002</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLE-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
+<span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
 
 <table>
 <theader>
@@ -36,11 +36,11 @@
 </tr>
 <tr><td colspan="3">INTEGRANTE(s):
 <ul>
-<li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
-<li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
-<li>Eberth Azurin Zuñiga - eazurin@unsa.edu.pe</li>
-<li>Franco Cárdenas Martines - fcardenasm@unsa.edu.pe</li>
-<li>Italo Velita Aguilar - ivelita@unsa.edu.pe</li>
+<li>Carrillo Daza Barbara - bcarrillo@unsa.edu.pe</li>
+<li>Hancco Condori Bryan - bhanccoco@unsa.edu.pe</li>
+<li>Azurin Zuñiga Eberth - eazurin@unsa.edu.pe</li>
+<li>Cárdenas Martines Franco - fcardenasm@unsa.edu.pe</li>
+<li>Velita Aguilar Italo - ivelita@unsa.edu.pe</li>
 </ul>
 </td>
 <td>NOTA:</td><td colspan="2"></td>
