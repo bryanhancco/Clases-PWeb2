@@ -27,9 +27,9 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Progamación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Ajax y NodeJS</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>03</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
 <td>FECHA DE PRESENTACIÓN:</td><td></td><td>HORA DE PRESENTACIÓN:</td><td colspan="3"></td>
@@ -87,6 +87,12 @@
 </div>    
 <p><b>REFERENCIAS Y BIBLIOGRAFÍA</b></p>
 <ul>
-<li>https://www.w3schools.com/js</li>
+    <li>https://www.w3schools.com/nodejs/nodejs_intro.asp</li>
+    <li>https://nodejs.org/en/docs/guides/getting-started-guide/</li>
+    <li>https://nodejs.dev/learn</li>
+    <li>https://www.w3schools.com/js/js_api_fetch.asp</li>
+    <li>https://expressjs.com/es/</li>
+    <li>https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch</li>
+    <li>https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction</li>
 </ul>
 
