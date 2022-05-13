@@ -13,14 +13,13 @@
     </theader>
     <tbody>
         <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLB-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
 </div>
 
 <div align="center">
 <span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
-<span>(formato estudiante)</span>
 
 
 <table>
@@ -31,18 +30,18 @@
 <tr><td>ASIGNATURA:</td><td colspan="5">Estructura de Datos y Algoritmos</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Revisión de elementos de programación (Parte I)</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
 <td>FECHA DE PRESENTACIÓN:</td><td></td><td>HORA DE PRESENTACIÓN:</td><td colspan="3"></td>
 </tr>
 <tr><td colspan="3">INTEGRANTE(s):
 <ul>
-<li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
-<li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
-<li>Carlo Rodrigo Diaz Portillo - cdiazpor@unsa.edu.pe</li>
-<li>Franco Cárdenas Martines - fcardenasm@unsa.edu.pe</li>
-<li>Gabriel Anthony Mamani Cañari - gmamanican@unsa.edu.pe</li>
+<li>Carrillo Daza Barbara - bcarrillo@unsa.edu.pe</li>
+<li>Hancco Condori Bryan - bhanccoco@unsa.edu.pe</li>
+<li>Diaz Portillo Carlo Rodrigo - cdiazpor@unsa.edu.pe</li>
+<li>Cárdenas Martines Franco - fcardenasm@unsa.edu.pe</li>
+<li>Mamani Cañari Gabriel Anthony - gmamanican@unsa.edu.pe</li>
 </ul>
 </td>
 <td>NOTA:</td><td colspan="2"></td>
