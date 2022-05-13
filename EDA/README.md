@@ -63,7 +63,7 @@
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
     <pre>                                                                                          </pre>
     </td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
     ¿Qué diferencia hay entre un List y un ArrayList en Java?<br><br>
     ¿Qué beneficios y oportunidades ofrecen las clases genéricas en Java?<br>
     <pre>                                                                                          </pre>
