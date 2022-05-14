@@ -36,11 +36,11 @@
 </tr>
 <tr><td colspan="3">INTEGRANTE(s):
 <ul>
-<li>Carrillo Daza Barbara - bcarrillo@unsa.edu.pe</li>
-<li>Hancco Condori Bryan - bhanccoco@unsa.edu.pe</li>
-<li>Azurin Zuñiga Eberth - eazurin@unsa.edu.pe</li>
-<li>Cárdenas Martines Franco - fcardenasm@unsa.edu.pe</li>
-<li>Velita Aguilar Italo - ivelita@unsa.edu.pe</li>
+    <li>Azurin Zuñiga Eberth - eazurin@unsa.edu.pe</li>
+    <li>Cárdenas Martines Franco - fcardenasm@unsa.edu.pe</li>
+    <li>Carrillo Daza Barbara - bcarrillo@unsa.edu.pe</li>
+    <li>Hancco Condori Bryan - bhanccoco@unsa.edu.pe</li>
+    <li>Velita Aguilar Italo - ivelita@unsa.edu.pe</li>
 </ul>
 </td>
 <td>NOTA:</td><td colspan="2"></td>
